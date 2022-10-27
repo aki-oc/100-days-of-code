@@ -3,12 +3,12 @@
 ### 1日目: 2022年10月27日
 
 **今日の進捗**:  
-*Review:comparison(all clean), if...else(time up!)　　
-*summary:stydy　content List up!　　
+*Review:comparison(all clean), if...else(time up!)　　  
+*summary:stydy　content List up!　　  
   
 **思ったこと**  
-*進歩を英語の勉強を兼ねて（頑張れる範囲で）英語で記入してみる。　　
-*比較は余裕、条件分岐は複雑になるとコードが浮かばない。そういう時は疑似コード書いてみる！  
+*進歩を英語の勉強を兼ねて（頑張れる範囲で）英語で記入してみる。  　　
+*比較は余裕、条件分岐は複雑になるとコードが浮かばない。そういう時は疑似コード書いてみる！    
   
 **リンク**
   
