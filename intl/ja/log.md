@@ -5,13 +5,10 @@
 ### 2日目: 2022年10月28日
 
 **今日の進捗**:  
-- Review:　  
- 
+- Review:　 Conditional branch1(all clean),Conditional branch2(😵‍💫)
   
 **思ったこと**  
-- 
-
-
+- 力づくでなんとかできなくなると詰む。わかりやすい動画を探しながら理解を深めたい。
   
 ***
 
@@ -19,7 +16,7 @@
 ### 1日目: 2022年10月27日
 
 **今日の進捗**:  
-- Review:comparison(all clean), if...else(time up!)　　  
+- Review:comparison(all clean), Conditional branch1(time up!)　　  
 
 - summary:stydy　content List up!　　  
   
